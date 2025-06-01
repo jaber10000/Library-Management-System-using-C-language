@@ -1,5 +1,3 @@
-Here it is, how using basic C language, we can create a library management system, there is a demo code for it, even if we use basic code in it, its management is very advanced.
-
 # Library Management System
 
 A simple C-based Library Management System using file handling to manage books and student-issued records. It allows you to add, remove, and list books and issue books to students.
